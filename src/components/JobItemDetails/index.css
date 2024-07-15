@@ -1,0 +1,90 @@
+.job-item-container {
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  padding: 60px;
+}
+
+.card {
+  background-color: #272727;
+  padding: 40px;
+  margin-bottom: 12px;
+  border-radius: 12px;
+}
+.similar-item-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.life-at-company-image {
+  height: 300px;
+  width: 600px;
+  padding-right: 40px;
+}
+.similar-card-container {
+  background-color: #272727;
+  padding: 40px;
+  margin-bottom: 12px;
+  border-radius: 12px;
+  width: 320px;
+}
+.similar {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  background-color: #000000;
+  flex-wrap: wrap;
+}
+
+.lifeAtCompanyContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.font {
+  font-size: 24px;
+}
+.life {
+  font-size: 20px;
+  font-weight: 300;
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding-right: 50px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.linkEle {
+  margin-left: 8px;
+}
+.skill-list-item {
+  margin-right: 150px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.skill-image {
+  margin-right: 12px;
+}
+.skill-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+
+.description-link-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}

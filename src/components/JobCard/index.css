@@ -1,0 +1,80 @@
+.card-container {
+  background-color: #272727;
+  padding: 40px;
+  margin-bottom: 12px;
+  border-radius: 12px;
+}
+.nav-link {
+  text-decoration: none;
+}
+.icons-container {
+  display: flex;
+}
+.particular-icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 25px;
+  color: #ffffff;
+}
+.package-container {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+}
+.description-heading {
+  font-size: 16px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 300;
+}
+
+.description-heading-1 {
+  font-size: 24px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 300;
+}
+.company-logo-details-container {
+  border-bottom: 2px solid #64748b;
+}
+.location-icon {
+  height: 30px;
+  width: 30px;
+  color: #64748b;
+  margin-right: 5px;
+}
+.company-icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-top: 0px;
+  align-items: center;
+  color: #ffffff;
+  height: 30px;
+  margin-bottom: 10px;
+}
+.company-title {
+  font-size: 22px;
+  color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+}
+.star-icon {
+  color: #fbbf24;
+  margin-right: 8px;
+}
+.company-logo {
+  height: 60px;
+  width: 60px;
+  margin-right: 12px;
+}
+.company-logo-container {
+  margin-top: 0px;
+  padding-top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
